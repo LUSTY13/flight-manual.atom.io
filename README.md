@@ -6,6 +6,7 @@ You can find this book online at: https://flight-manual.atom.io
 
 This book is open source under a Creative Commons license.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2254b12bbb364fd3bf0d7a851c17fa21)](https://app.codacy.com/app/lustyzhere2_2/flight-manual.atom.io?utm_source=github.com&utm_medium=referral&utm_content=LUSTY13/flight-manual.atom.io&utm_campaign=Badge_Grade_Dashboard)
 [![atom-cover](https://cloud.githubusercontent.com/assets/378023/8718108/54c10686-2bdc-11e5-8d26-f7f807d63171.png)](https://github.com/atom/docs/releases/latest)
 
 ## License
